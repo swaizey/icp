@@ -9,4 +9,4 @@
 
 [build.environment]
   NODE_VERSION = "20"
-  VITE_API_URL = "https://your-cloudflare-worker-url.workers.dev"
+  VITE_API_URL = "https://icp-server.icp-359.workers.dev"
